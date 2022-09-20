@@ -14,8 +14,8 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 global.linkGC = ['https://chat.whatsapp.com/EVCGfzxLWfp81n0WhmVklH', 'https://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9', 'https://chat.whatsapp.com/HBhy7rVae3o0PkIfkhvs2N'] // ganti jadi group lu
-global.owner = ['60189830350', '60149431385', '60189830350'] // Masukan nomot kalian
-global.mods = ['60189830350', '60149431385'] // Moderator
+global.owner = ['6281368176386'] // Masukan nomot kalian
+global.mods = ['6281368176386'] // Moderator
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -89,7 +89,7 @@ global.kolam = 'https://telegra.ph/file/5aa5dfa3394477e11fb18.jpg'
 global.thanks = 'https://telegra.ph/file/01917f7782b70de8f418d.jpg'
 
 // tingkat kesulitan, semakin tinggi semakin susah
-global.multiplier = 500 // The higher, The harder levelup
+global.multiplier = 70 // The higher, The harder levelup
 
 //*****************PEMBATAS*********************
 // JANGAN DI GANTI NTAR KLO GABISA JAN TANYA GW
