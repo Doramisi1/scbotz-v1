@@ -1,5 +1,3 @@
-// Bismillahirrahmanirrahim
-// thank you to ALLAH Swt
 // thank you to Nurutomo as wabot-aq
 // thank you to ariffb as stikerinbot
 // thank you to botstylee
@@ -13,7 +11,7 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.linkGC = ['https://chat.whatsapp.com/EVCGfzxLWfp81n0WhmVklH', 'https://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9', 'https://chat.whatsapp.com/HBhy7rVae3o0PkIfkhvs2N'] // ganti jadi group lu
+global.linkGC = ['https://chat.whatsapp.com/FUNTCWlsSSuIpCdG91tvFE','https://chat.whatsapp.com/EVCGfzxLWfp81n0WhmVklH', 'https://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9', 'https://chat.whatsapp.com/HBhy7rVae3o0PkIfkhvs2N'] // ganti jadi group lu
 global.owner = ['6281368176386'] // Masukan nomot kalian
 global.mods = ['6281368176386'] // Moderator
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
